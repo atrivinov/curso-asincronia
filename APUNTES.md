@@ -88,4 +88,4 @@ Su formato de respuesta será:
 ]
 ```
 
-Dependiendo si es un solo usuario se accede al endpoint /products/:id (Donde id es un parametro dinamico y tendra la forma /products/1 )
+Dependiendo si es un solo usuario se accede al endpoint ***/products/:id*** (Donde id es un parametro dinamico y tendra la forma ***/products/1***)
